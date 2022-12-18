@@ -1,50 +1,50 @@
-  480  logout
-  481  exit
-  482  conda activate dev
-  483  conda deactivate
-  484  conda remove --name dev --all
-  485  conda info --envs
-  486  conda update conda
-  487  conda update anaconda
-  488  conda create -n dev python=3.7 anaconda
-  489  conda activate dev
-  490  conda list pandas
-  491  conda list jupyterlab
-  492  jupyter lab
-  493  conda activate dev
-  494  jupyter lab
-  495  clear
-  496  jupyter lab
-  497  clear
-  498  jupyter lab
+  474  git commit Resources -r -m "Adding starter code files"
+  475  git commit Resources -a -m "Adding starter code files"
+  476  git commit Resources -m "Adding starter code files"
+  477  git push
+  478  git status
+  479  git commit crypto_arbitrage.ipynb -m "Adding starter file"
+  480  git push
+  481  git status
+  482  history 50 > terminal_history.txt
+  483  git status
+  484  git add terminal_history.txt
+  485  git commit terminal_history.txt -m "adding terminal history file"
+  486  git push
+  487  jupyter lab
+  488  conda activate dev
+  489  jupyter lab
+  490  clear
+  491  jupyter lab
+  492  pwd
+  493  ls
+  494  cd module3challenge/
+  495  ls
+  496  git status
+  497  git commit crypto_arbitrage.ipynb -m "Updating the jupyter file intermediately"
+  498  git push
   499  clear
   500  jupyter lab
   501  conda activate dev
-  502  ls
-  503  cd ..
+  502  jupyter lab
+  503  pwd
   504  ls
-  505  pwd
-  506  cd columbia_bootcamp/
-  507  ls
-  508  cd CU-VIRT-FIN-PT-11-2022-U-B/
-  509  ls
-  510  git clone https://github.com/anuraggargLTI/module3challenge.git
-  511  cd module3challenge/
-  512  ls
-  513  git status
-  514  git add Resources -r
-  515  git add Resources -all
-  516  git add Resources --all
+  505  cd module3challenge/
+  506  ls
+  507  git status
+  508  git commit crypto_arbitrage.ipynb -m "Updating the code intermittently"
+  509  git push
+  510  clear
+  511  git status
+  512  git commit README.md -m "Updating Readme file"
+  513  git push
+  514  git status
+  515  git commit README.md -m "Updating Readme file"
+  516  git push
   517  git status
-  518  git add crypto_arbitrage.ipynb
-  519  git status
-  520  git push
-  521  git commit Resources -r -m "Adding starter code files"
-  522  git commit Resources -a -m "Adding starter code files"
-  523  git commit Resources -m "Adding starter code files"
-  524  git push
-  525  git status
-  526  git commit crypto_arbitrage.ipynb -m "Adding starter file"
-  527  git push
-  528  git status
-  529  history 50 > terminal_history.txt
+  518  git commit README.md -m "Updating Readme file"
+  519  git push
+  520  git status
+  521  git commit README.md -m "Updating Readme file"
+  522  git push
+  523  history 50 > terminal_history.txt
